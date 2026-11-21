@@ -1,0 +1,14 @@
+Package: rootwizard
+Version: 1.1.0
+Architecture: all
+Maintainer: Abdul Aziz <rootwizard@local>
+Depends: bash
+Filename: ./rootwizard_1.1.0_all.deb
+Size: 5044
+MD5sum: bd2537436734c1daf0a2da20b6dc0d1b
+SHA1: 23f95b0102762d2eb663ac6e6b3f11743675f348
+SHA256: 9270c6c86dd8ac298d7636f87570cef34a3851953cd9849cea80dc4cacea2c52
+Section: utils
+Priority: optional
+Description: Rootless Termux power runner, addons, and encrypted log bridge
+
